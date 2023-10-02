@@ -1,7 +1,7 @@
 const titleKITSUNE = "KITSUNE";
-const imgKITSUNEUrl = "/images/KITSUNE/";
+const imgKITSUNEUrl = "https://images.nightcafe.studio/jobs/7IVIioBfBIIR7TgekT2Y/7IVIioBfBIIR7TgekT2Y--1--5h5rp.jpg?tr=w-1600,c-at_max";
 const textKITSUNE = "I am the KITSUNE";
-const cardColorKITSUNE = "";
+const cardColorKITSUNE = "blue";
 
 if (titleKITSUNE && imgKITSUNEUrl && textKITSUNE && cardColorKITSUNE) {
   document.getElementById("titleKITSUNE").textContent = titleKITSUNE;
