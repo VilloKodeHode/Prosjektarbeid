@@ -1,5 +1,5 @@
 const titleGRIFFIN = "GRIFFIN";
-const imgGRIFFINUrl = "/images/SHISHAN/Griffin.png/";
+const imgGRIFFINUrl = "/images/SHISHAN/Griffin.png";
 const textGRIFFIN = "I am the GRIFFIN";
 const cardColorGRIFFIN = "blue";
 
