@@ -1,6 +1,6 @@
 const titleGRIFFIN = "GRIFFIN";
 const imgGRIFFINUrl = "/images/SHISHAN/Griffin.png";
-const textGRIFFIN = "I am the GRIFFIN";
+const textGRIFFIN = "I am the Mighty Griffin!";
 const cardColorGRIFFIN = "blue";
 
 if (titleGRIFFIN && imgGRIFFINUrl && textGRIFFIN && cardColorGRIFFIN) {
