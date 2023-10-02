@@ -1,4 +1,4 @@
-const titleDRAGON = "The red dragon";
+const titleDRAGON = "Dragon";
 const imgDRAGONUrl = "/images/dragon/audunbarsk_red_dragon_c38dd704-8211-4921-b44a-8a429451bec1.png";
 const textDRAGON = "I am the DRAGON";
 const cardColorDRAGON = "black";
