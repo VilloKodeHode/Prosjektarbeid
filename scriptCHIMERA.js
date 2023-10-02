@@ -1,7 +1,7 @@
-const titleCHIMERA = "CHIMERA";
-const imgCHIMERAUrl = "/images/CHIMERA/";
-const textCHIMERA = "I am the CHIMERA";
-const cardColorCHIMERA = "";
+const titleCHIMERA = "Chimdun the Multifaceted";
+const imgCHIMERAUrl = "/images/CHIMERA/chimera.png";
+const textCHIMERA = "Why be just one animal?";
+const cardColorCHIMERA = "#b48648";
 
 if (titleCHIMERA && imgCHIMERAUrl && textCHIMERA && cardColorCHIMERA) {
   document.getElementById("titleCHIMERA").textContent = titleCHIMERA;
