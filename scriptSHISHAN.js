@@ -1,7 +1,7 @@
-const titleSHISHAN = "Willow the master of all things code";
+const titleSHISHAN = "Willow: the master of all things code";
 const imgSHISHANUrl = "/images/SHISHAN/Barberian.png";
 const textSHISHAN = "I am the one and only";
-const cardColorSHISHAN = "darkred";
+const cardColorSHISHAN = "#6EEB83";
 
 if (titleSHISHAN && imgSHISHANUrl && textSHISHAN && cardColorSHISHAN) {
   document.getElementById("titleSHISHAN").textContent = titleSHISHAN;
