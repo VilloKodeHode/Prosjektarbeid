@@ -1,7 +1,7 @@
-const titleDRAGON = "DRAGON";
-const imgDRAGONUrl = "/images/DRAGON/";
+const titleDRAGON = "The red dragon";
+const imgDRAGONUrl = "/images/dragon/audunbarsk_red_dragon_c38dd704-8211-4921-b44a-8a429451bec1.png";
 const textDRAGON = "I am the DRAGON";
-const cardColorDRAGON = "";
+const cardColorDRAGON = "black";
 
 if (titleDRAGON && imgDRAGONUrl && textDRAGON && cardColorDRAGON) {
   document.getElementById("titleDRAGON").textContent = titleDRAGON;
