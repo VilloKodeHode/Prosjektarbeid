@@ -1,7 +1,7 @@
 const titleGRIFFIN = "GRIFFIN";
 const imgGRIFFINUrl = "/images/SHISHAN/Griffin.png";
 const textGRIFFIN = "I am the Mighty Griffin!";
-const cardColorGRIFFIN = "blue";
+const cardColorGRIFFIN = "#0a6681";
 
 if (titleGRIFFIN && imgGRIFFINUrl && textGRIFFIN && cardColorGRIFFIN) {
   document.getElementById("titleGRIFFIN").textContent = titleGRIFFIN;
