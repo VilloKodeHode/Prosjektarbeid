@@ -1,7 +1,7 @@
 const titleKRAKEN = "KRAKEN";
-const imgKRAKENUrl = "https://medievalists.gumlet.io/wp-content/uploads/2015/01/Kraken.png?format=webp&compress=true&quality=80&w=376&dpr=2.6";
-const textKRAKEN = "Release the Kraken!!!!";
-const cardColorKRAKEN = "#d81159";
+const imgKRAKENUrl = "";
+const textKRAKEN = "";
+const cardColorKRAKEN = "";
 
 if (titleKRAKEN && imgKRAKENUrl && textKRAKEN && cardColorKRAKEN) {
   document.getElementById("titleKRAKEN").textContent = titleKRAKEN;

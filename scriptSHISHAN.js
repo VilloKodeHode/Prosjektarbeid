@@ -12,3 +12,13 @@ if (titleSHISHAN && imgSHISHANUrl && textSHISHAN && cardColorSHISHAN) {
 } else {
   document.getElementById("imgSHISHAN").src = "/images/archangel.png";
 }
+
+
+
+
+
+
+// const titleSHISHAN = "Willow the master of all things code";
+// const imgSHISHANUrl = "/images/SHISHAN/Barberian.png";
+// const textSHISHAN = "I am the one and only";
+// const cardColorSHISHAN = "darkred";

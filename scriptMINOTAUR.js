@@ -1,6 +1,6 @@
 const titleMINOTAUR = "MINOTAUR";
-const imgMINOTAURUrl = "/images/MINOTAUR/";
-const textMINOTAUR = "I am the MINOTAUR";
+const imgMINOTAURUrl = "";
+const textMINOTAUR = "";
 const cardColorMINOTAUR = "";
 
 if (titleMINOTAUR && imgMINOTAURUrl && textMINOTAUR && cardColorMINOTAUR) {
