@@ -1,7 +1,7 @@
 const titleDRAGON = "DRAGON";
-const imgDRAGONUrl = "";
-const textDRAGON = "";
-const cardColorDRAGON = "";
+const imgDRAGONUrl = "https://media.gettyimages.com/id/488578578/vector/laughing-green-dragon.jpg?s=612x612&w=0&k=20&c=u0m9On0FonlLQG7u4Bg606_BKRsK5P5lEbyM_FduB0E%3D";
+const textDRAGON = "Dangerous, but not evil.";
+const cardColorDRAGON = "pink";
 
 if (titleDRAGON && imgDRAGONUrl && textDRAGON && cardColorDRAGON) {
   document.getElementById("titleDRAGON").textContent = titleDRAGON;
