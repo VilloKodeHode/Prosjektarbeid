@@ -30,7 +30,7 @@ div.container {
 }
 
 .cardwrapper {
-    background-color: rgb(134, 80, 10);
+    background-color: rgb(134, 80, 10) ;
     padding: 30px;
     gap: 8px;
     display: flex;
