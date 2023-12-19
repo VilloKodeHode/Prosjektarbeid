@@ -1,7 +1,7 @@
 const titleGRIFFIN = "GRIFFIN";
-const imgGRIFFINUrl = "";
-const textGRIFFIN = "";
-const cardColorGRIFFIN = "";
+const imgGRIFFINUrl = "/images/Griffin.webp";
+const textGRIFFIN = "GRIFFIN";
+const cardColorGRIFFIN = "darkbrown";
 
 if (titleGRIFFIN && imgGRIFFINUrl && textGRIFFIN && cardColorGRIFFIN) {
   document.getElementById("titleGRIFFIN").textContent = titleGRIFFIN;
