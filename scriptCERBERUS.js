@@ -1,7 +1,7 @@
 const titleCERBERUS = "CERBERUS";
 const imgCERBERUSUrl = "/images/CERBERUS/CERBERUS.jpg";
 const textCERBERUS = "Guardian of the River of Souls.";
-const cardColorCERBERUS = "darkred";
+const cardColorCERBERUS = "lightblue";
 
 if (titleCERBERUS && imgCERBERUSUrl && textCERBERUS && cardColorCERBERUS) {
   document.getElementById("titleCERBERUS").textContent = titleCERBERUS;
