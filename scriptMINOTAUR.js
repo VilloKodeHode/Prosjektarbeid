@@ -1,4 +1,4 @@
-const titleMINOTAUR = "MINOTAUR";
+const titleMINOTAUR = "";
 const imgMINOTAURUrl = "";
 const textMINOTAUR = "";
 const cardColorMINOTAUR = "";
@@ -10,5 +10,5 @@ if (titleMINOTAUR && imgMINOTAURUrl && textMINOTAUR && cardColorMINOTAUR) {
   document.getElementById("cardMINOTAUR").style.backgroundColor =
     cardColorMINOTAUR;
 } else {
-  document.getElementById("imgMINOTAUR").src = "/images/archangel.png";
+  document.getElementById("imgMINOTAUR").src = imgMINOTAURUrl;
 }

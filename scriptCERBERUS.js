@@ -1,7 +1,7 @@
-const titleCERBERUS = "CERBERUS";
-const imgCERBERUSUrl = "/images/CERBERUS/CERBERUS.jpg";
-const textCERBERUS = "Guardian of the River of Souls.";
-const cardColorCERBERUS = "lightblue";
+const titleCERBERUS = "";
+const imgCERBERUSUrl = "";
+const textCERBERUS = "";
+const cardColorCERBERUS = "";
 
 if (titleCERBERUS && imgCERBERUSUrl && textCERBERUS && cardColorCERBERUS) {
   document.getElementById("titleCERBERUS").textContent = titleCERBERUS;
@@ -10,5 +10,5 @@ if (titleCERBERUS && imgCERBERUSUrl && textCERBERUS && cardColorCERBERUS) {
   document.getElementById("cardCERBERUS").style.backgroundColor =
     cardColorCERBERUS;
 } else {
-  document.getElementById("imgCERBERUS").src = "/images/archangel.png";
+  document.getElementById("imgCERBERUS").src = imgCERBERUSUrl;
 }

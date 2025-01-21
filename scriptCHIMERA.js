@@ -1,7 +1,7 @@
-const titleCHIMERA = "CHIMERA";
-const imgCHIMERAUrl = "/images/CHIMERA/c7935f840f5e7eb127994567308c51cc.jpg";
-const textCHIMERA = "COOL LION";
-const cardColorCHIMERA = "darkgrey";
+const titleCHIMERA = "";
+const imgCHIMERAUrl = "";
+const textCHIMERA = "";
+const cardColorCHIMERA = "";
 
 if (titleCHIMERA && imgCHIMERAUrl && textCHIMERA && cardColorCHIMERA) {
   document.getElementById("titleCHIMERA").textContent = titleCHIMERA;
@@ -10,5 +10,5 @@ if (titleCHIMERA && imgCHIMERAUrl && textCHIMERA && cardColorCHIMERA) {
   document.getElementById("cardCHIMERA").style.backgroundColor =
     cardColorCHIMERA;
 } else {
-  document.getElementById("imgCHIMERA").src = "/images/archangel.png";
+  document.getElementById("imgCHIMERA").src = imgCHIMERAUrl;
 }

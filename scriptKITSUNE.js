@@ -1,4 +1,4 @@
-const titleKITSUNE = "KITSUNE";
+const titleKITSUNE = "";
 const imgKITSUNEUrl = "";
 const textKITSUNE = "";
 const cardColorKITSUNE = "";
@@ -10,5 +10,5 @@ if (titleKITSUNE && imgKITSUNEUrl && textKITSUNE && cardColorKITSUNE) {
   document.getElementById("cardKITSUNE").style.backgroundColor =
     cardColorKITSUNE;
 } else {
-  document.getElementById("imgKITSUNE").src = "/images/archangel.png";
+  document.getElementById("imgKITSUNE").src = imgKITSUNEUrl;
 }

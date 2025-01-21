@@ -1,4 +1,4 @@
-const titlePHOENIX = "PHOENIX";
+const titlePHOENIX = "";
 const imgPHOENIXUrl = "";
 const textPHOENIX = "";
 const cardColorPHOENIX = "";
@@ -10,5 +10,5 @@ if (titlePHOENIX && imgPHOENIXUrl && textPHOENIX && cardColorPHOENIX) {
   document.getElementById("cardPHOENIX").style.backgroundColor =
     cardColorPHOENIX;
 } else {
-  document.getElementById("imgPHOENIX").src = "/images/archangel.png";
+  document.getElementById("imgPHOENIX").src = imgPHOENIXUrl;
 }
